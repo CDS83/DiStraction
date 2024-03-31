@@ -16,7 +16,7 @@ jobs:
       - name: Prepare dist
         run: |
           mkdir dist
-          rsync --dry-run -av --prune-empty-dirs --exclude '*.log' --exclude '*.manifest' --exclude '*.db' src/ dist/
+          rsync -av --prune-empty-dirs --exclude '*.log' --exclude '*.manifest' --exclude '*.db' src/ dist/
   
       - name: Auto Minify
         uses: DrA1ex/pages-minify@v1.0.3
