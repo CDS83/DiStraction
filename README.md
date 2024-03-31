@@ -1,9 +1,11 @@
 DiStraction
 ===========
 
-<img src="src/pics/p1.png" alt="image" width="300" height="auto">
-<img src="src/pics/p2.png" alt="image" width="300" height="auto">
-<img src="src/pics/p3.png" alt="image" width="300" height="auto">
+<p>
+<img src="src/pics/p1.png" alt="image" width="200" height="auto" hspace="10">
+<img src="src/pics/p2.png" alt="image" width="200" height="auto" hspace="10">
+<img src="src/pics/p3.png" alt="image" width="200" height="auto" hspace="10">
+</p>
 
 A babylon.js driving game demo written in 2014 with some resources available at that time.
 
