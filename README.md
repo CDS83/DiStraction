@@ -13,8 +13,7 @@ The demo is still playable here: https://www.babylonjs.com/Demos/Distraction/
 
 Check the Github action "Make dist" to get an artifact that contains the full autonomous demo code (minified). 
 
-Since 2014, many websites mentioned in the first html page have vanished:
-- http://archive3d.net
+Since 2014, some websites mentioned in the first html page have vanished:
 - http://www.cannonjs.org/
 - http://www.references3d.com
 
