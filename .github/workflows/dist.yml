@@ -18,6 +18,7 @@ jobs:
           mkdir dist
           cp -r src/* dist/
           cd dist
+          touch test.log
           rm -rf *.log
           rm -rf *.manifest
           rm -rf *.db
