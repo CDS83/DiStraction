@@ -19,6 +19,7 @@ jobs:
           cp -r src/* dist/
           cd dist
           touch test.log
+          rm -Rf *.*
           rm -rf *.manifest
           rm -rf *.db
   
