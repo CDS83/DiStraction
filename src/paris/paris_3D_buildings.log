@@ -1,0 +1,921 @@
+	Babylon.js Exporter version: 1.6.2, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  paris_3D_buildings.Material.black
+	processing begun of material:  paris_3D_buildings.Material.border
+	processing begun of material:  paris_3D_buildings.Material.bridges
+	processing begun of material:  paris_3D_buildings.Material.buildings
+	processing begun of material:  paris_3D_buildings.Material.flag
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\flag.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\flag.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\flag.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.002")>, ignored.
+	processing begun of material:  paris_3D_buildings.Material.ground
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\plan.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\plan.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\plan.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.003")>, ignored.
+	processing begun of material:  paris_3D_buildings.Material.support
+	Diffuse texture found
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.001")>, ignored.
+	processing begun of material:  paris_3D_buildings.Material.water
+	processing begun of node:  Bridges
+	processing begun of node:  Checkpoints
+	processing begun of mesh:  Flag
+		num positions      :  289
+		num normals        :  289
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1536
+	processing begun of node:  Fountain
+	processing begun of node:  Smoke
+	processing begun of node:  Buildings (not solid - no shadows)
+	processing begun of mesh:  Cube.091
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.089
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.090
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Sphere.004
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  Cube.085
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.084
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.071
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.068
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.008
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.061
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.060
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.059
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.058
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.057
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.056
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.074
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.005
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Sphere.002
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  Cube.001
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.002
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.003
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.004
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.005
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.006
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.007
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.008
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.009
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.018
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.019
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.026
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.027
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.028
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.031
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.036
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.037
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.039
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.043
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.044
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.050
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.053
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.054
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.055
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.004
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Sphere
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  Sphere.001
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  Cube.000
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.049
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Sphere.003
+		num positions      :  482
+		num normals        :  482
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  Cube.092
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Supports
+	processing begun of mesh:  Madeleine Building
+		num positions      :  1809
+		num normals        :  1809
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11274
+	processing begun of node:  Ground borders
+	processing begun of node:  Buildings (not solid)
+	processing begun of mesh:  Cylinder.017
+		num positions      :  23
+		num normals        :  23
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  126
+	processing begun of mesh:  Cube.112
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.111
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.110
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.108
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.101
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.015
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.099
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.012
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.094
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.088
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.007
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.021
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.006
+		num positions      :  40
+		num normals        :  40
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of mesh:  Cylinder.003
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.045
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.040
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.035
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.024
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.001
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.068
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.002
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Building.071
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.034
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.015
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.029
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Building.030
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.031
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.035
+		num positions      :  52
+		num normals        :  52
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder.001
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.034
+		num positions      :  158
+		num normals        :  158
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  936
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.038
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.041
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.048
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.025
+		num positions      :  16
+		num normals        :  16
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Building.032
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.009
+		num positions      :  192
+		num normals        :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Cylinder.010
+		num positions      :  192
+		num normals        :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1140
+	processing begun of mesh:  Building.070
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.069
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Building.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.008
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.011
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.093
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  Cylinder.014
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.013
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.065
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  Building.013
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+	processing begun of mesh:  Cube.100
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.102
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.103
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.018
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cylinder.019
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.104
+		num positions      :  70
+		num normals        :  70
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  408
+	processing begun of mesh:  Cube.109
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.076
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.116
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of node:  Impostors
+	processing begun of node:  M
+	processing begun of node:  Buildings
+	processing begun of node:  Fountains
+	processing begun of node:  SC
+	processing begun of node:  AT
+	processing begun of node:  TE
+	processing begun of node:  Buildings (solid)
+	processing begun of mesh:  Cube.117
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  60
+	processing begun of mesh:  Cylinder.016
+		num positions      :  64
+		num normals        :  64
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of node:  Trees
+	processing begun of mesh:  Notredameparis
+		num positions      :  7550
+		num normals        :  7550
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  46032
+	processing begun of mesh:  Arc triomphe
+		num positions      :  5223
+		num normals        :  5223
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  31326
+	processing begun of mesh:  Sacre Coeur
+		num positions      :  10212
+		num normals        :  10212
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  61260
+	processing begun of mesh:  Eiffel Tower mini
+		num positions      :  1426
+		num normals        :  1426
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8592
+	processing begun of node:  Ground.parent
+	WARNING: The following object is not currently exportable thus ignored: Lattice river #2
+	WARNING: The following object is not currently exportable thus ignored: Lattice hills
+	WARNING: The following object is not currently exportable thus ignored: Lattice river
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of mesh:  Cube.051
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	WARNING: The following lamp not visible in scene thus ignored: Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========

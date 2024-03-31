@@ -1,0 +1,1118 @@
+	Babylon.js Exporter version: 1.3.0, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  body.1
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.10___Default
+	processing begun of material:  body.11___Default
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.1256
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.2
+	Ambient texture found
+	Diffuse texture found
+	Opacity texture found
+	processing begun of material:  body.3
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.35
+	Ambient texture found
+	Diffuse texture found
+	Opacity texture found
+	Reflection texture found
+	processing begun of material:  body.666
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.6664
+	processing begun of material:  body.999
+	Ambient texture found
+	Diffuse texture found
+	processing begun of material:  body.glass
+	processing begun of material:  body.glass2
+	processing begun of node:  Body
+	processing begun of mesh:  cit_ds3100
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  cit_ds3104
+		num positions      :  212
+		num normals        :  212
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1068
+	processing begun of mesh:  cit_ds3101
+		num positions      :  828
+		num normals        :  828
+		num uvs            :  1656
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4110
+	processing begun of mesh:  cit_ds3105
+		num positions      :  20
+		num normals        :  20
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  cit_ds3106
+		num positions      :  353
+		num normals        :  353
+		num uvs            :  706
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1914
+	processing begun of mesh:  cit_ds3108
+		num positions      :  289
+		num normals        :  289
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  864
+	processing begun of mesh:  cit_ds3107
+		num positions      :  177
+		num normals        :  177
+		num uvs            :  354
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  873
+	processing begun of mesh:  cit_ds3103
+		num positions      :  857
+		num normals        :  857
+		num uvs            :  1714
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4062
+	processing begun of mesh:  cit_ds3109
+		num positions      :  74
+		num normals        :  74
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  153
+	processing begun of mesh:  cit_ds3102
+		num positions      :  1382
+		num normals        :  1382
+		num uvs            :  2764
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6834
+	processing begun of mesh:  cit_ds3125
+		num positions      :  203
+		num normals        :  203
+		num uvs            :  406
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1104
+	processing begun of mesh:  cit_ds3122
+		num positions      :  224
+		num normals        :  224
+		num uvs            :  448
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1176
+	processing begun of mesh:  cit_ds3126
+		num positions      :  54
+		num normals        :  54
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  cit_ds3124
+		num positions      :  292
+		num normals        :  292
+		num uvs            :  584
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1260
+	processing begun of mesh:  cit_ds3136
+		num positions      :  206
+		num normals        :  206
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1005
+	processing begun of mesh:  cit_ds3121
+		num positions      :  46
+		num normals        :  46
+		num uvs            :  92
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  cit_ds3133
+		num positions      :  292
+		num normals        :  292
+		num uvs            :  584
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1260
+	processing begun of mesh:  cit_ds3149
+		num positions      :  35
+		num normals        :  35
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  cit_ds3111
+		num positions      :  74
+		num normals        :  74
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  153
+	processing begun of mesh:  cit_ds3140
+		num positions      :  121
+		num normals        :  121
+		num uvs            :  242
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  498
+	processing begun of mesh:  cit_ds3150
+		num positions      :  706
+		num normals        :  706
+		num uvs            :  1412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3576
+	processing begun of mesh:  cit_ds3110
+		num positions      :  95
+		num normals        :  95
+		num uvs            :  190
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  441
+	processing begun of mesh:  cit_ds3117
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  117
+	processing begun of mesh:  cit_ds3143
+		num positions      :  430
+		num normals        :  430
+		num uvs            :  860
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  696
+	processing begun of mesh:  cit_ds3115
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  117
+	processing begun of mesh:  cit_ds3131
+		num positions      :  224
+		num normals        :  224
+		num uvs            :  448
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1176
+	processing begun of mesh:  cit_ds3120
+		num positions      :  826
+		num normals        :  826
+		num uvs            :  1652
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4296
+	processing begun of mesh:  cit_ds3146
+		num positions      :  1022
+		num normals        :  1022
+		num uvs            :  2044
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3504
+	processing begun of mesh:  cit_ds3116
+		num positions      :  79
+		num normals        :  79
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  345
+	processing begun of mesh:  cit_ds3144
+		num positions      :  2304
+		num normals        :  2304
+		num uvs            :  4608
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6672
+	processing begun of mesh:  cit_ds3123
+		num positions      :  35
+		num normals        :  35
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  cit_ds3113
+		num positions      :  74
+		num normals        :  74
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  153
+	processing begun of mesh:  cit_ds3142
+		num positions      :  1541
+		num normals        :  1541
+		num uvs            :  3082
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6810
+	processing begun of mesh:  cit_ds3147
+		num positions      :  153
+		num normals        :  153
+		num uvs            :  306
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  621
+	processing begun of mesh:  cit_ds3134
+		num positions      :  203
+		num normals        :  203
+		num uvs            :  406
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1104
+	processing begun of mesh:  cit_ds3114
+		num positions      :  95
+		num normals        :  95
+		num uvs            :  190
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  441
+	processing begun of mesh:  cit_ds3118
+		num positions      :  79
+		num normals        :  79
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  345
+	processing begun of mesh:  cit_ds3128
+		num positions      :  428
+		num normals        :  428
+		num uvs            :  856
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2376
+	processing begun of mesh:  cit_ds3138
+		num positions      :  79
+		num normals        :  79
+		num uvs            :  158
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  345
+	processing begun of mesh:  cit_ds3137
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  117
+	processing begun of mesh:  cit_ds3127
+		num positions      :  206
+		num normals        :  206
+		num uvs            :  412
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1005
+	processing begun of mesh:  cit_ds3145
+		num positions      :  112
+		num normals        :  112
+		num uvs            :  224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  321
+	processing begun of mesh:  cit_ds3129
+		num positions      :  830
+		num normals        :  830
+		num uvs            :  1660
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4284
+	processing begun of mesh:  cit_ds3132
+		num positions      :  35
+		num normals        :  35
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  cit_ds3130
+		num positions      :  46
+		num normals        :  46
+		num uvs            :  92
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  132
+	processing begun of mesh:  cit_ds3135
+		num positions      :  54
+		num normals        :  54
+		num uvs            :  108
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  cit_ds3141
+		num positions      :  12327
+		num normals        :  12327
+		num uvs            :  24654
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  52119
+	processing begun of mesh:  cit_ds3119
+		num positions      :  428
+		num normals        :  428
+		num uvs            :  856
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2376
+	processing begun of mesh:  cit_ds3112
+		num positions      :  95
+		num normals        :  95
+		num uvs            :  190
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  441
+	processing begun of mesh:  cit_ds3148
+		num positions      :  1630
+		num normals        :  1630
+		num uvs            :  3260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6999
+	processing begun of mesh:  cit_ds3139
+		num positions      :  121
+		num normals        :  121
+		num uvs            :  242
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  498
+	processing begun of mesh:  cit_ds3_15
+		num positions      :  1159
+		num normals        :  1159
+		num uvs            :  2318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5382
+	processing begun of mesh:  cit_ds3_10
+		num positions      :  98
+		num normals        :  98
+		num uvs            :  196
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  cit_ds3_14
+		num positions      :  234
+		num normals        :  234
+		num uvs            :  468
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  876
+	processing begun of mesh:  cit_ds3_21
+		num positions      :  803
+		num normals        :  803
+		num uvs            :  1606
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3732
+	processing begun of mesh:  cit_ds3155
+		num positions      :  76
+		num normals        :  76
+		num uvs            :  152
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  210
+	processing begun of mesh:  cit_ds3_16
+		num positions      :  495
+		num normals        :  495
+		num uvs            :  990
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2754
+	processing begun of mesh:  cit_ds3159
+		num positions      :  59
+		num normals        :  59
+		num uvs            :  118
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  117
+	processing begun of mesh:  cit_ds3_25
+		num positions      :  180
+		num normals        :  180
+		num uvs            :  360
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  567
+	processing begun of mesh:  cit_ds3_17
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  204
+	processing begun of mesh:  cit_ds3_19
+		num positions      :  803
+		num normals        :  803
+		num uvs            :  1606
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3768
+	processing begun of mesh:  cit_ds3_11
+		num positions      :  328
+		num normals        :  328
+		num uvs            :  656
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1668
+	processing begun of mesh:  cit_ds3_18
+		num positions      :  173
+		num normals        :  173
+		num uvs            :  346
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  828
+	processing begun of mesh:  cit_ds3_13
+		num positions      :  1147
+		num normals        :  1147
+		num uvs            :  2294
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6354
+	processing begun of mesh:  cit_ds3_20
+		num positions      :  56
+		num normals        :  56
+		num uvs            :  112
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  cit_ds3_26
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  342
+	processing begun of mesh:  cit_ds3152
+		num positions      :  651
+		num normals        :  651
+		num uvs            :  1302
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3414
+	processing begun of mesh:  cit_ds3154
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  cit_ds3161
+		num positions      :  772
+		num normals        :  772
+		num uvs            :  1544
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4263
+	processing begun of mesh:  cit_ds3153
+		num positions      :  351
+		num normals        :  351
+		num uvs            :  702
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1092
+	processing begun of mesh:  cit_ds3162
+		num positions      :  108
+		num normals        :  108
+		num uvs            :  216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  552
+	processing begun of mesh:  cit_ds3_27
+		num positions      :  89
+		num normals        :  89
+		num uvs            :  178
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  273
+	processing begun of mesh:  cit_ds3_22
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  110
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  cit_ds3_23
+		num positions      :  3308
+		num normals        :  3308
+		num uvs            :  6616
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17772
+	processing begun of mesh:  cit_ds3_24
+		num positions      :  140
+		num normals        :  140
+		num uvs            :  280
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  714
+	processing begun of mesh:  cit_ds3160
+		num positions      :  129
+		num normals        :  129
+		num uvs            :  258
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  594
+	processing begun of mesh:  cit_ds3158
+		num positions      :  298
+		num normals        :  298
+		num uvs            :  596
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1092
+	processing begun of mesh:  cit_ds3163
+		num positions      :  124
+		num normals        :  124
+		num uvs            :  248
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  381
+	processing begun of mesh:  cit_ds3_12
+		num positions      :  596
+		num normals        :  596
+		num uvs            :  1192
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1848
+	processing begun of mesh:  cit_ds3157
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  117
+	processing begun of mesh:  cit_ds3151
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  24
+	processing begun of mesh:  cit_ds3156
+		num positions      :  12
+		num normals        :  12
+		num uvs            :  24
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of mesh:  cit_ds3_80
+		num positions      :  1598
+		num normals        :  1598
+		num uvs            :  3196
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7086
+	processing begun of mesh:  cit_ds3_98
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  90
+	processing begun of mesh:  cit_ds3_40
+		num positions      :  294
+		num normals        :  294
+		num uvs            :  588
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  873
+	processing begun of mesh:  cit_ds3_55
+		num positions      :  957
+		num normals        :  957
+		num uvs            :  1914
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4896
+	processing begun of mesh:  cit_ds3_97
+		num positions      :  289
+		num normals        :  289
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1431
+	processing begun of mesh:  cit_ds3_67
+		num positions      :  273
+		num normals        :  273
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1314
+	processing begun of mesh:  cit_ds3_30
+		num positions      :  1529
+		num normals        :  1529
+		num uvs            :  3058
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3825
+	processing begun of mesh:  cit_ds3_90
+		num positions      :  212
+		num normals        :  212
+		num uvs            :  424
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1062
+	processing begun of mesh:  cit_ds3_48
+		num positions      :  195
+		num normals        :  195
+		num uvs            :  390
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1008
+	processing begun of mesh:  cit_ds3_93
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  90
+	processing begun of mesh:  cit_ds3_75
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  285
+	processing begun of mesh:  cit_ds3_56
+		num positions      :  2039
+		num normals        :  2039
+		num uvs            :  4078
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11304
+	processing begun of mesh:  cit_ds3_28
+		num positions      :  1763
+		num normals        :  1763
+		num uvs            :  3526
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9864
+	processing begun of mesh:  cit_ds3_50
+		num positions      :  105
+		num normals        :  105
+		num uvs            :  210
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  450
+	processing begun of mesh:  cit_ds3_34
+		num positions      :  262
+		num normals        :  262
+		num uvs            :  524
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1299
+	processing begun of mesh:  cit_ds3_88
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  78
+	processing begun of mesh:  cit_ds3_82
+		num positions      :  130
+		num normals        :  130
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  576
+	processing begun of mesh:  cit_ds3_96
+		num positions      :  1884
+		num normals        :  1884
+		num uvs            :  3768
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4977
+	processing begun of mesh:  cit_ds3_62
+		num positions      :  338
+		num normals        :  338
+		num uvs            :  676
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1518
+	processing begun of mesh:  cit_ds3_45
+		num positions      :  4376
+		num normals        :  4376
+		num uvs            :  8752
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  25506
+	processing begun of mesh:  cit_ds3_44
+		num positions      :  94
+		num normals        :  94
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  303
+	processing begun of mesh:  cit_ds3_77
+		num positions      :  525
+		num normals        :  525
+		num uvs            :  1050
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2889
+	processing begun of mesh:  cit_ds3_84
+		num positions      :  1474
+		num normals        :  1474
+		num uvs            :  2948
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6192
+	processing begun of mesh:  cit_ds3_94
+		num positions      :  34
+		num normals        :  34
+		num uvs            :  68
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  cit_ds3_35
+		num positions      :  118
+		num normals        :  118
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  522
+	processing begun of mesh:  cit_ds3_29
+		num positions      :  160
+		num normals        :  160
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  696
+	processing begun of mesh:  cit_ds3_83
+		num positions      :  185
+		num normals        :  185
+		num uvs            :  370
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  732
+	processing begun of mesh:  cit_ds3_63
+		num positions      :  674
+		num normals        :  674
+		num uvs            :  1348
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3213
+	processing begun of mesh:  cit_ds3_72
+		num positions      :  271
+		num normals        :  271
+		num uvs            :  542
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1407
+	processing begun of mesh:  cit_ds3_86
+		num positions      :  214
+		num normals        :  214
+		num uvs            :  428
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  570
+	processing begun of mesh:  cit_ds3_42
+		num positions      :  262
+		num normals        :  262
+		num uvs            :  524
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1299
+	processing begun of mesh:  cit_ds3_60
+		num positions      :  5457
+		num normals        :  5457
+		num uvs            :  10914
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  28776
+	processing begun of mesh:  cit_ds3_33
+		num positions      :  246
+		num normals        :  246
+		num uvs            :  492
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1185
+	processing begun of mesh:  cit_ds3_71
+		num positions      :  2934
+		num normals        :  2934
+		num uvs            :  5868
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7056
+	processing begun of mesh:  cit_ds3_78
+		num positions      :  1294
+		num normals        :  1294
+		num uvs            :  2588
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3642
+	processing begun of mesh:  cit_ds3_46
+		num positions      :  109
+		num normals        :  109
+		num uvs            :  218
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  cit_ds3_79
+		num positions      :  4612
+		num normals        :  4612
+		num uvs            :  9224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  23382
+	processing begun of mesh:  cit_ds3_43
+		num positions      :  118
+		num normals        :  118
+		num uvs            :  236
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  522
+	processing begun of mesh:  cit_ds3_65
+		num positions      :  271
+		num normals        :  271
+		num uvs            :  542
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1407
+	processing begun of mesh:  cit_ds3_76
+		num positions      :  524
+		num normals        :  524
+		num uvs            :  1048
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2883
+	processing begun of mesh:  cit_ds3_51
+		num positions      :  3946
+		num normals        :  3946
+		num uvs            :  7892
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8379
+	processing begun of mesh:  cit_ds3_41
+		num positions      :  246
+		num normals        :  246
+		num uvs            :  492
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1185
+	processing begun of mesh:  cit_ds3_53
+		num positions      :  9086
+		num normals        :  9086
+		num uvs            :  18172
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  51210
+	processing begun of mesh:  cit_ds3_87
+		num positions      :  242
+		num normals        :  242
+		num uvs            :  484
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  804
+	processing begun of mesh:  cit_ds3_38
+		num positions      :  204
+		num normals        :  204
+		num uvs            :  408
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  468
+	processing begun of mesh:  cit_ds3_74
+		num positions      :  273
+		num normals        :  273
+		num uvs            :  546
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1314
+	processing begun of mesh:  cit_ds3_61
+		num positions      :  98
+		num normals        :  98
+		num uvs            :  196
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  564
+	processing begun of mesh:  cit_ds3_69
+		num positions      :  338
+		num normals        :  338
+		num uvs            :  676
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1518
+	processing begun of mesh:  cit_ds3_73
+		num positions      :  119
+		num normals        :  119
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  cit_ds3_58
+		num positions      :  376
+		num normals        :  376
+		num uvs            :  752
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1038
+	processing begun of mesh:  cit_ds3_31
+		num positions      :  739
+		num normals        :  739
+		num uvs            :  1478
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3309
+	processing begun of mesh:  cit_ds3_57
+		num positions      :  1230
+		num normals        :  1230
+		num uvs            :  2460
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4353
+	processing begun of mesh:  cit_ds3_49
+		num positions      :  105
+		num normals        :  105
+		num uvs            :  210
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  450
+	processing begun of mesh:  cit_ds3_92
+		num positions      :  289
+		num normals        :  289
+		num uvs            :  578
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1431
+	processing begun of mesh:  cit_ds3_66
+		num positions      :  116
+		num normals        :  116
+		num uvs            :  232
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  cit_ds3_37
+		num positions      :  1283
+		num normals        :  1283
+		num uvs            :  2566
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3351
+	processing begun of mesh:  cit_ds3_91
+		num positions      :  1891
+		num normals        :  1891
+		num uvs            :  3782
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4977
+	processing begun of mesh:  cit_ds3_70
+		num positions      :  672
+		num normals        :  672
+		num uvs            :  1344
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3201
+	processing begun of mesh:  cit_ds3_39
+		num positions      :  736
+		num normals        :  736
+		num uvs            :  1472
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3291
+	processing begun of mesh:  cit_ds3_68
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  285
+	processing begun of mesh:  cit_ds3_36
+		num positions      :  94
+		num normals        :  94
+		num uvs            :  188
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  303
+	processing begun of mesh:  cit_ds3_47
+		num positions      :  88
+		num normals        :  88
+		num uvs            :  176
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  390
+	processing begun of mesh:  cit_ds3_52
+		num positions      :  2470
+		num normals        :  2470
+		num uvs            :  4940
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12042
+	processing begun of mesh:  cit_ds3_85
+		num positions      :  510
+		num normals        :  510
+		num uvs            :  1020
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2112
+	processing begun of mesh:  cit_ds3_89
+		num positions      :  280
+		num normals        :  280
+		num uvs            :  560
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1548
+	processing begun of mesh:  cit_ds3_32
+		num positions      :  194
+		num normals        :  194
+		num uvs            :  388
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  873
+	processing begun of mesh:  cit_ds3_95
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  cit_ds3_54
+		num positions      :  390
+		num normals        :  390
+		num uvs            :  780
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1758
+	processing begun of mesh:  cit_ds3_59
+		num positions      :  797
+		num normals        :  797
+		num uvs            :  1594
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4482
+	processing begun of mesh:  cit_ds3_81
+		num positions      :  1690
+		num normals        :  1690
+		num uvs            :  3380
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8766
+	processing begun of mesh:  cit_ds3_99
+		num positions      :  35
+		num normals        :  35
+		num uvs            :  70
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  cit_ds3_64
+		num positions      :  2952
+		num normals        :  2952
+		num uvs            :  5904
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7110
+	processing begun of light (POINT):  Lamp
+	processing begun of camera (FreeCamera):  Camera
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========

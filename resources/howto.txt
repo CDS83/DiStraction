@@ -1,0 +1,7 @@
+Consignes pour que le surlignage du cel-shading passe avec les bâtiments :
+
+- Le centre de gravité doit se trouver à l'intérieur du volume (ne pas déplacer les faces originales au delà du centre de gravité)
+Le plus simple est de faire "set origin" puis "origin to center of mass"
+
+- Pour les formes qui ne sont pas des parallélépipèdes rectangles les coefficients de "scale" doivent être identiques sur x, y et z (sinon les normales sont fausses pour une raison inconnue et les faces arrières ne sont pas affichées au bon moment)
+

@@ -1,0 +1,234 @@
+	Babylon.js Exporter version: 1.6.2, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  paris_heightmap.Material.black
+	processing begun of material:  paris_heightmap.Material.border
+	processing begun of material:  paris_heightmap.Material.bridges
+	processing begun of material:  paris_heightmap.Material.buildings
+	processing begun of material:  paris_heightmap.Material.flag
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\flag.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\flag.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\flag.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.002")>, ignored.
+	processing begun of material:  paris_heightmap.Material.green.support
+	processing begun of material:  paris_heightmap.Material.ground
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\plan.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\plan.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\plan.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.003")>, ignored.
+	processing begun of material:  paris_heightmap.Material.support
+	processing begun of material:  paris_heightmap.Material.water
+	processing begun of node:  Bridges
+	processing begun of node:  Checkpoints
+	processing begun of node:  Fountain
+	processing begun of node:  Smoke
+	processing begun of node:  Buildings (not solid - no shadows)
+	processing begun of node:  Supports
+	processing begun of mesh:  Support
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.001
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.002
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Building.077
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.003
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.004
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.005
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.006
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.007
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.014
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.013
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.012
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.011
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.010
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.009
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.008
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.016
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.015
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.017
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Support.018
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Ground borders
+	processing begun of mesh:  Water
+		num positions      :  289
+		num normals        :  289
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1536
+	processing begun of mesh:  Plane.004
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Plane.003
+		num positions      :  40
+		num normals        :  40
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  114
+	processing begun of mesh:  Plane.002
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of mesh:  Plane
+		num positions      :  67
+		num normals        :  67
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  195
+	processing begun of mesh:  Plane.001
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of node:  Buildings (not solid)
+	processing begun of node:  Impostors
+	processing begun of node:  M
+	processing begun of node:  Buildings
+	processing begun of node:  Fountains
+	processing begun of node:  SC
+	processing begun of node:  AT
+	processing begun of node:  TE
+	processing begun of node:  Buildings (solid)
+	processing begun of node:  Trees
+	processing begun of node:  Ground.parent
+	WARNING: The following object is not currently exportable thus ignored: Lattice river #2
+	WARNING: The following object is not currently exportable thus ignored: Lattice hills
+	WARNING: The following object is not currently exportable thus ignored: Lattice river
+	processing begun of mesh:  Ground
+		num positions      :  4225
+		num normals        :  4225
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  24576
+		WARNING: textures being used, but no UV Map found
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========

@@ -1,0 +1,271 @@
+@font-face {
+    font-family: 'Liquid Crystal';
+    src: url('../fonts/Liquid.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../fonts/Montserrat-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'airstream';
+    src: url('../fonts/airstrea.ttf'), url('../fonts/airstrea.eot');
+    font-style: normal;
+    font-weight: normal;
+}
+
+.disable-selection {
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer */
+    -khtml-user-select: none;
+    /* KHTML browsers (e.g. Konqueror) */
+    -webkit-user-select: none;
+    /* Chrome, Safari, and Opera */
+    -webkit-touch-callout: none;
+    /* Disable Android and iOS callouts*/
+}
+
+html,
+body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #000000;
+}
+
+#canvasZone {
+    position: absolute;
+    right: 0px;
+    top: 00px;
+    width: 100%;
+    height: 100%;
+}
+
+#renderCanvas {
+    width: 100%;
+    height: 100%;
+    touch-action: none;
+}
+
+#loading {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 300px;
+    height: 30px;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#loading #message {
+    position: absolute;
+    margin: auto;
+    top: 40px;
+    width: 300px;
+    height: 20px;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#title_bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+.btn {
+    color: #000000;
+    background: #3498db;
+    cursor: pointer;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 6px;
+}
+
+#start_btn {
+    position: absolute;
+    left: 680px;
+    top: 28px;
+    width: 100px;
+    height: 46px;
+    line-height: 46px;
+}
+
+#title {
+    position: absolute;
+    left: 50px;
+    top: 8px;
+    color: #ffffff;
+    font-family: 'airstream', sans-serif;
+    font-size: 50px;
+}
+
+#title span {
+    font-size: 64px;
+}
+
+#subtitle {
+    position: absolute;
+    left: 110px;
+    top: 70px;
+    color: #ffffff;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 14px;
+}
+
+#menus {
+    display: none;
+}
+
+.title {
+    color: #000000;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 14px;
+    padding-right: 5px;
+    /*border-width : 0 1px 0 0;
+    border-style: solid;
+    border-color: #ffffff;*/
+    height: 46px;
+}
+
+#game_option_ttl {
+    position: absolute;
+    left: 440px;
+    top: 30px;
+}
+
+#game_options {
+    position: absolute;
+    left: 550px;
+    top: 30px;
+    color: #000000;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 14px;
+}
+
+#game_options label {
+    cursor: pointer;
+    display: inline-block;
+    /*vertical-align: bottom;*/
+    margin-bottom: 8px;
+}
+
+#option_ttl {
+    position: absolute;
+    left: 945px;
+    top: 30px;
+}
+
+#options {
+    position: absolute;
+    left: 1030px;
+    top: 30px;
+    color: #000000;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 14px;
+    width: 100px;
+}
+
+#options label {
+    cursor: pointer;
+    display: inline-block;
+    /*vertical-align: bottom;*/
+    margin-bottom: 8px;
+}
+
+#bottom_bar {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    display: none;
+}
+
+#tdb_back {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    opacity: 0.6;
+    display: none;
+}
+
+#tdb {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+#tdb #speed {
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    width: 250px;
+    text-align: right;
+    color: #ffffff;
+    font-family: 'Liquid Crystal', sans-serif;
+    font-size: 40px;
+}
+
+#tdb #speed span {
+    font-size: 50px;
+}
+
+#tdb #direction {
+    position: absolute;
+    left: 330px;
+    top: 20px;
+    width: 25px;
+    height: 25px;
+    color: #ffffff;
+    font-family: 'Liquid Crystal', sans-serif;
+    font-size: 50px;
+}
+
+#tdb #tdb_checkpoints {
+    position: absolute;
+    left: 420px;
+    top: 15px;
+    width: 400px;
+    height: 25px;
+    color: #ffffff;
+    font-family: 'Liquid Crystal', sans-serif;
+    font-size: 20px;
+    display: none;
+}

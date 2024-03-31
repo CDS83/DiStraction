@@ -1,0 +1,91 @@
+	Babylon.js Exporter version: 1.6.2, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  paris_particles.Material.black
+	processing begun of material:  paris_particles.Material.border
+	processing begun of material:  paris_particles.Material.bridges
+	processing begun of material:  paris_particles.Material.bridges.002
+	processing begun of material:  paris_particles.Material.bridges.003
+	processing begun of material:  paris_particles.Material.buildings
+	processing begun of material:  paris_particles.Material.buildings.002
+	processing begun of material:  paris_particles.Material.buildings.003
+	processing begun of material:  paris_particles.Material.buildings.004
+	processing begun of material:  paris_particles.Material.buildings.005
+	processing begun of material:  paris_particles.Material.flag
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\flag.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\flag.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\flag.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.002")>, ignored.
+	processing begun of material:  paris_particles.Material.ground
+	Diffuse texture found
+Error encountered processing image file:  D:\Users\Christophe\Documents\Documents\workspace_webstorm\Demo1\paris\plan.png, Error:  'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\resources\\..\\paris\\plan.png' and 'D:\\Users\\Christophe\\Documents\\Documents\\workspace_webstorm\\Demo1\\paris\\plan.png' are the same file
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.003")>, ignored.
+	processing begun of material:  paris_particles.Material.support
+	Diffuse texture found
+	WARNING image texture type not recognized:  <bpy_struct, MaterialTextureSlot("Texture.001")>, ignored.
+	processing begun of material:  paris_particles.Material.water
+	processing begun of node:  Bridges
+	processing begun of node:  Checkpoints
+	processing begun of node:  Fountain
+	processing begun of mesh:  Cube.062
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.086
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Smoke
+	processing begun of mesh:  Cube.014
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.069
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.070
+		WARNING:  No materials have been assigned: 
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of node:  Buildings (not solid - no shadows)
+	processing begun of node:  Supports
+	processing begun of node:  Ground borders
+	processing begun of node:  Buildings (not solid)
+	processing begun of node:  Impostors
+	processing begun of node:  M
+	processing begun of node:  Buildings
+	processing begun of node:  Fountains
+	processing begun of node:  SC
+	processing begun of node:  AT
+	processing begun of node:  TE
+	processing begun of node:  Buildings (solid)
+	processing begun of node:  Trees
+	processing begun of node:  Ground.parent
+	WARNING: The following object is not currently exportable thus ignored: Lattice river #2
+	WARNING: The following object is not currently exportable thus ignored: Lattice hills
+	WARNING: The following object is not currently exportable thus ignored: Lattice river
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	WARNING: The following lamp not visible in scene thus ignored: Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
