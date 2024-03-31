@@ -19,7 +19,6 @@ jobs:
           cp -r src/* dist/
           cd dist
           touch test.log
-          rm -rf *.log
           rm -rf *.manifest
           rm -rf *.db
   
@@ -29,5 +28,5 @@ jobs:
       - uses: actions/upload-artifact@v4.3.1
         with:
           path: dist
-          name: artifact.${{ env.NOW }}
+          name: DiStraction.dist.${{ env.NOW }}
           
