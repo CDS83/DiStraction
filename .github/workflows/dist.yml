@@ -1,0 +1,30 @@
+name: Make dist
+on: [push]
+
+jobs:
+  dist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: set NOW
+        env: 
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+        run: echo "::set-env name=NOW::$(date +'%Y-%m-%d-%H-%M-%S')"
+    
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Prepare dist
+        run: |
+          mkdir dist
+          cp -r src/* dist/
+          rm -Rf dist/*.log
+          rm -Rf dist/*.manifest
+  
+      - name: Auto Minify
+        uses: DrA1ex/pages-minify@v1.0.3
+          
+      - uses: actions/upload-artifact@v3
+        with:
+          path: dist
+          name: artifact.${{ env.NOW }}
+          
