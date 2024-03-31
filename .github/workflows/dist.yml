@@ -18,14 +18,14 @@ jobs:
           mkdir dist
           cp -r src/* dist/
           cd dist
-          rm -Rf *.log
-          rm -Rf *.manifest
-          rm -Rf *.db
+          rm -rf *.log
+          rm -rf *.manifest
+          rm -rf *.db
   
       - name: Auto Minify
         uses: DrA1ex/pages-minify@v1.0.3
           
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4.3.1
         with:
           path: dist
           name: artifact.${{ env.NOW }}
